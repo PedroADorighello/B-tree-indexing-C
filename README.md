@@ -52,10 +52,10 @@ make
 
 ### 2. Executar:
 ```bash
-./ufscraft_index
+./ORI_T02
 ```
 
-## 🧑‍💻 Autor
+## Autor
 Desenvolvido como parte do projeto de **Organização e Recuperação da Informação (ORI)**.
 
 === DESCRIÇÃO DOS ARQUIVOS FORNECIDOS ===
