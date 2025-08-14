@@ -1,9 +1,9 @@
 # Sistema de Indexação com Árvore-B em C
 
 ## Descrição do Projeto
-Este projeto implementa um **sistema de indexação utilizando Árvore-B** para otimizar o gerenciamento de grandes volumes de dados em um **suposto** jogo chamado **UFSCraft**.
+Este projeto implementa um **sistema de indexação utilizando Árvore-B** para otimizar o gerenciamento de grandes volumes de dados em um **suposto** jogo.
 
-O UFSCraft tornou-se extremamente popular, resultando em um aumento massivo no número de:
+O jogo tornou-se extremamente popular, resultando em um aumento massivo no número de:
 - Jogadores
 - Kits
 - Partidas
